@@ -1,1 +1,3 @@
 # Q9
+
+The Q9 input method (Chinese: 九方輸入法), invented by _Qcode Information Technology Ltd._ of Hong Kong, is an input method that uses **only** the number keys on a numeric keypad to input Chinese characters into a digital device. It is considered an easy method to use even though it is a "structural" `input method`. (Most "structural" methods are considered difficult.) It is used on some mobile phones in Hong Kong. It provides an alternative to Cangjie input method as well, as this utilizes the numeric keypad on personal computers.
